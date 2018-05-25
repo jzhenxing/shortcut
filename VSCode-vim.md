@@ -1,4 +1,5 @@
 # VS Code Vim 常用命令
+>完整版rodemap(https://github.com/VSCodeVim/Vim/blob/master/ROADMAP.md)
 
 ## 1 编辑
 
@@ -44,6 +45,8 @@ ctrl+r|重做
 y|复制(view模式)
 p|从当前光标后粘贴
 P|从当前光标前粘贴
+u(view模式)|小写
+U(View模式)|大写
 
 
 ##  2 移动
@@ -98,5 +101,3 @@ N|反方向重复上次搜索
 ---|---------------
 :e|打开新文件编辑
 :new|创建新文件
-
-
